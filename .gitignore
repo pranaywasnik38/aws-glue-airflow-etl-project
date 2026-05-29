@@ -1,0 +1,26 @@
+# Virtual Environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# Data Files
+data/
+*.csv
+*.parquet
+
+# Airflow
+airflow/logs/
+
+# VS Code
+.vscode/
+
+# AWS
+.aws/

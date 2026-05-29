@@ -1,0 +1,11 @@
+boto3
+pandas
+sqlalchemy
+pymysql
+requests
+pysftp
+paramiko
+apache-airflow
+pyspark
+psycopg2-binary
+apache-airflow-providers-mysql
