@@ -24,3 +24,8 @@ SFTP_PASSWORD = "test"
 
 # REST API
 API_URL = "https://jsonplaceholder.typicode.com/users"
+
+FINANCE_RAW_PATH = "sftp/finance/"
+FINANCE_PROCESSED_PATH = "finance/"
+API_RAW_PATH = "api/users"
+API_PROCESSED_PATH = "users/"
