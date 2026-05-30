@@ -14,6 +14,7 @@ AWS_SECRET_KEY = os.getenv("AWS_SECRET_KEY")
 AWS_REGION = os.getenv("AWS_REGION")
 
 RAW_BUCKET = os.getenv("RAW_BUCKET")
+PROCESSED_BUCKET = os.getenv("PROCESSED_BUCKET")
 
 # SFTP
 SFTP_HOST = "localhost"
